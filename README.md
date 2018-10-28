@@ -3,6 +3,7 @@ Just some games made with C++
 
 
 FUNTIME
+
 These two directories are the challenges I had given myself whilst a student at California State University - Bakersfield.
 They are made completely in C++ and, I believe, show my experience with algorithm analysis, slight AI implementation, Object
 Oriented Programming, and I/O manipulation. The directories themselves are self explanatory, the Hangman directory contains
@@ -11,10 +12,12 @@ Blackjack.
 
 
 PREREQUISITES - Hangman & Blackjack
+
 There are no prerequisites for installing this project.
 
 
 INSTALLING - Hangman & Blackjack
+
 To install, clone the project onto your desktop, or wherever you wish to have it stored. 
 
 
@@ -41,4 +44,5 @@ separate hands for an extra chance to win.
 
 
 AUTHOR
+
 Alexzander Avila - Initial work - B.S. in Computer Science
