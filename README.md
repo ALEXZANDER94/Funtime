@@ -19,6 +19,7 @@ To install, clone the project onto your desktop, or wherever you wish to have it
 
 
 RUNTIME - Hangman
+
 The Hangman game was fairly simple to implement. I had come up with the idea to create it when I had discovered the C++
 method 'system("clear")'. The source code begins by selectint a random number, this number is used to grab the word from
 a separate file containing all of the possible words for the game. Once a word is selected, then the game begins and the User 
@@ -28,6 +29,7 @@ correct, the letter is shown in the string.
 
 
 RUNTIME - BLACKJACK
+
 The Blackjack game was quite difficult to implement. At the time, it was a rather extensive challenge of my knowledge of 
 C++ and Object-Oriented Programming. The executable starts by prompting the User to enter a choice: 1, 2, or 3. 
 Upon beginning the game, an array ("deck") is created and instantiated with values 1 through 13 via 'for' loop; this
